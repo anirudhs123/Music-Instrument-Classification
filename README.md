@@ -3,12 +3,8 @@
 In this project we use CNN based models to classify instruments using the Freesound audio data set. Our proposed architecture computes the Mel-spectrogram from the input audio
 data and feeds it to a CNN based model. To add robustness to the model, we use a novel data augmentation technique based on the CutMix Algorithm. We optimise the architecture using Hyperparameter Tuning and Pruning, and analyse the model by generating the Class Activation Maps and by conducting an Ablation Study. For detailed information regarding this work, please read our detailed [report](https://emilbiju.github.io/indic-swipe). 
 
-The models and datasets have been developed to cater to two closely related tasks:
-
-- **Indic-to-Indic Decoding:** To support users who prefer to type in the native Indic script (Devanagari, Bengali, etc.)
-- **English-to-Indic Decoding:** To support users who prefer to type using an English script keyboard but want the output in the native script.
-
-IndicSwipe demonstrates high decoding accuracies on both tasks varying from 70% to 95% across the 7 languages.
+We have taken an open source dataset called ‘Free Sound Audio tagging data’ for classification of musical instruments. The unfiltered version of the dataset had 9400 unique
+audio samples stored in .wav format and there were 41 unique classes of instruments
 
 <p align="center">
    <img src="../gh-pages/assets/images/gesture_sample.jpg" width=400 height=300>
