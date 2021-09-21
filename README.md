@@ -16,10 +16,12 @@ IndicSwipe demonstrates high decoding accuracies on both tasks varying from 70% 
 
 ## Key Contributions
 
-1. A Gesture Path Decoding model that uses a multi-headed Transformer along with LSTM layers for coordinate sequence encoding and a character-level LSTM model for character sequence decoding.
-2. A Contrastive Transliteration correction model that uses position-aware character embeddings to measure word proximities and correct spellings of transliterated words.
-3. Two datasets of simulated word traces for supporting work on gesture typing for Indic language keyboards including low resource languages like Telugu and Kannada.
-4. The accuracies of the proposed models vary from 70 to 89% for English-to-Indic decoding and 86-95% for Indic-to-Indic decoding across the 7 languages used for the study.
+1. We make use of CutMix Algorithm on the Mel Spectrograms to augment input data and add robustness to the model.
+2. Hyper Parameter Tuning using keras tuner with Random search algorithm.
+3. Model Pruning to obtain a lighter model with similar performance metrics as the original model(without pruning).
+4. Class Activation Maps to identify neurons that play a significant role in identifying a class.
+5. Ablation study to understand the importance of individual layer from the proposed model architecture. 
+6. We have also done a thorough comparative analysis of our model with traditionally used instrument classification models.
 
 ## People
 
