@@ -1,21 +1,17 @@
 # Music Instrument Classification
 
 In this project we use CNN based models to classify instruments using the Freesound audio data set. Our proposed architecture computes the Mel-spectrogram from the input audio
-data and feeds it to a CNN based model. To add robustness to the model, we use a novel data augmentation technique based on the CutMix Algorithm. We optimise the architecture using Hyperparameter Tuning and Pruning, and analyse the model by generating the Class Activation Maps and by conducting an Ablation Study. For detailed information regarding this work, please read our detailed [report](https://emilbiju.github.io/indic-swipe). 
+data and feeds it to a CNN based model. To add robustness to the model, we use a novel data augmentation technique based on the CutMix Algorithm. We optimise the architecture using Hyperparameter Tuning and Pruning, and analyse the model by generating the Class Activation Maps and by conducting an Ablation Study. For detailed information regarding this work, please read our detailed [report](). 
 
 We have taken an open source dataset called ‘Free Sound Audio tagging data’ for classification of musical instruments. The unfiltered version of the dataset had 9400 unique
 audio samples stored in .wav format and there were 41 unique classes of instruments
 
-<div class="image123">
-    <div class="imgContainer">
-        <img src="images/MFCC.jpg" height="200" width="300"/>
-        <p>This is image 1</p>
-    </div>
-    <div class="imgContainer">
-        <img class="middle-img" src="images/Pruning.png"/ height="200" width="300", style="float:right"/>
-        <p>This is image 2</p>
-    </div>
-</div>
+<figure class="half" style="display:flex">
+    <img style="width:400px" src="images/MFCC.jpg">
+    <img style="width:600px" src="images/Pruning.png">
+    <figcaption>Caption describing these two images.</figcaption>
+</figure>
+
 
 This Music instrument classification models can be used in building Content Based Recommender Systems, in Genre Identification tasks and can be extended to provide solutions for
 similar problems in other domains, for example in anomaly detection for mechanical systems.
