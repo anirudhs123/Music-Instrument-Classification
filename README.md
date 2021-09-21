@@ -9,7 +9,7 @@ audio samples stored in .wav format and there were 41 unique classes of instrume
 <div class="image123">
     <img src="images/MFCC.jpg" height="300" width="400" style="float:left">
     <p>This is image 1</p>
-    <img class="middle-img" src="images/Pruning.png"/ height="300" width="400">
+    <img class="middle-img" src="images/Pruning.png"/ height="300" width="400",  style="float:right">
    <p>This is image 2</p>
 </div>
 
