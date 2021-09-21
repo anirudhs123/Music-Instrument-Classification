@@ -8,29 +8,7 @@ audio samples stored in .wav format and there were 41 unique classes of instrume
 
 <!DOCTYPE html>
 <html>
-  
-<head>
-    <style>
-        .images {
-            display: flex;
-            flex-wrap: wrap;
-            margin: 0 50px;
-            padding: 30px;
-        }
-  
-        .photo {
-            max-width: 31.333%;
-            padding: 0 10px;
-            height: 240px;
-        }
-  
-        .photo img {
-            width: 100%;
-            height: 100%;
-        }
-    </style>
-</head>
-  
+    
 <body>
     <div class="images">
         <div class="photo">
