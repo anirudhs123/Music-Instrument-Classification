@@ -1,5 +1,3 @@
-# Music Instrument Classification
-
 In this project we use CNN based models to classify instruments using the Freesound audio data set. Our proposed architecture computes the Mel-spectrogram from the input audio
 data and feeds it to a CNN based model. To add robustness to the model, we use a novel data augmentation technique based on the CutMix Algorithm. We optimise the architecture using Hyperparameter Tuning and Pruning, and analyse the model by generating the Class Activation Maps and by conducting an Ablation Study. For detailed information regarding this work, please read our detailed [report](https://github.com/anirudhs123/Music-Instrument-Classification/blob/main/Music%20Instrument%20Classification.pdf). 
 
