@@ -9,7 +9,7 @@ audio samples stored in .wav format and there were 41 unique classes of instrume
 
 
 <p>
-<img src="images/feature_extract.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="images/MFCC.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 <img src="images/Pruning.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 <img src="images/cam1.png" style="float: left; width: 20%; margin-right: 1%; margin-bottom: 0.5em;">
 (a) Schematic Representation of Preprocessing steps in computing the MFCC coefficients (b) Representation of Pruning (c) A sub matrix of the attention map across the DCT coefficients  
