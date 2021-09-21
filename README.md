@@ -11,7 +11,7 @@ audio samples stored in .wav format and there were 41 unique classes of instrume
 </p>
 
 <p align="right">
-   <img src="images/pruning.jpg" width=400 height=300>
+   <img src="images/Pruning.png" width=400 height=300>
 </p>
 
 This Music instrument classification models can be used in building Content Based Recommender Systems, in Genre Identification tasks and can be extended to provide solutions for
