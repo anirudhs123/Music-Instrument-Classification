@@ -10,7 +10,7 @@ audio samples stored in .wav format and there were 41 unique classes of instrume
     <div class="imgContainer">
         <img src="images/MFCC.jpg" height="200" width="300"/>
         <p>Schematic Representation of Preprocessing steps in computing the MFCC coefficients</p>
-    
+    </div>
     <div class="imgContainer">
         <img class="middle-img" src="images/Pruning.png" height="200" width="300", style="float:right">
         <p>Representation of Pruning</p>
