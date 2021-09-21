@@ -14,6 +14,8 @@ IndicSwipe demonstrates high decoding accuracies on both tasks varying from 70% 
    <img src="../gh-pages/assets/images/gesture_sample.jpg" width=400 height=300>
 </p>
 
+This Music instrument classification models can be used in building Content Based Recommender Systems, in Genre Identification tasks and can be extended to provide solutions for
+similar problems in other domains, for example in anomaly detection for mechanical systems.
 ## Key Contributions
 
 1. We make use of CutMix Algorithm on the Mel Spectrograms to augment input data and add robustness to the model.
