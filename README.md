@@ -7,8 +7,8 @@ We have taken an open source dataset called ‘Free Sound Audio tagging data’ 
 audio samples stored in .wav format and there were 41 unique classes of instruments
 
 <figure class="half" style="display:flex">
-    <img style="width:400px" src="images/MFCC.jpg">
-    <img style="width:400px" src="images/Pruning.png">
+    <img style="width:300px" src="images/MFCC.jpg">
+    <img style="width:300px" src="images/Pruning.png">
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
 
