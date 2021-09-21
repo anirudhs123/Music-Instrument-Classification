@@ -25,4 +25,4 @@ similar problems in other domains, for example in anomaly detection for mechanic
 
 ## People
 
-This work has been developed as a part of a course project  by [Anirudh Sriram](https://github.com/anirudhs123), [Arjun Menon V]((https://github.com/arjunmenonv), [Srinivas Mareddi](https://github.com/srinivasmareddi) and [Nithin Varma] from the Indian Institute of Technology, Madras. Ask us your questions at [anirudhsriram30799@gmail.com](mailto:anirudhsriram30799@gmail.com).
+This work has been developed as a part of a course project  by [Anirudh Sriram](https://github.com/anirudhs123), [Arjun Menon V](https://github.com/arjunmenonv), [Srinivas Mareddi](https://github.com/srinivasmareddi) and [Nithin Varma] from the Indian Institute of Technology, Madras. Ask us your questions at [anirudhsriram30799@gmail.com](mailto:anirudhsriram30799@gmail.com).
