@@ -5,7 +5,7 @@ data and feeds it to a CNN based model. To add robustness to the model, we use a
 
 We have taken an open source dataset called ‘Free Sound Audio tagging data’ for classification of musical instruments. The unfiltered version of the dataset had 9400 unique
 audio samples stored in .wav format and there were 41 unique classes of instruments
-
+<body>
 <div class="images">
         <div class="photo">
             <img src="images/MFCC.jpg" alt="photo" />
@@ -18,7 +18,8 @@ audio samples stored in .wav format and there were 41 unique classes of instrume
         <div class="photo">
             <img src="images/Pruning.png" alt="photo" />
         </div>
-    </div>
+</div>
+</body>
 
 This Music instrument classification models can be used in building Content Based Recommender Systems, in Genre Identification tasks and can be extended to provide solutions for
 similar problems in other domains, for example in anomaly detection for mechanical systems.
