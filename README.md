@@ -12,7 +12,7 @@ audio samples stored in .wav format and there were 41 unique classes of instrume
         <p>This is image 1</p>
     </div>
     <div class="imgContainer">
-        <img class="middle-img" src="images/pruning.png" height="200" width="300", style="float:right"/>
+        <img class="middle-img" src="images/Pruning.png" height="200" width="300", style="float:right"/>
         <p>This is image 2</p>
     </div>
 </div>
