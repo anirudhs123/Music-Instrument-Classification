@@ -7,11 +7,11 @@ We have taken an open source dataset called ‘Free Sound Audio tagging data’ 
 audio samples stored in .wav format and there were 41 unique classes of instruments
 
 <p align="left">
-   <img src="images/MFCC.jpg" width=300 height=200>
+   <img src="images/MFCC.jpg" width=400 height=300>
 </p>
 
 <p align="right">
-   <img src="images/Pruning.jpg" width=400 height=300>
+   <img src="images/pruning.jpg" width=400 height=300>
 </p>
 
 This Music instrument classification models can be used in building Content Based Recommender Systems, in Genre Identification tasks and can be extended to provide solutions for
